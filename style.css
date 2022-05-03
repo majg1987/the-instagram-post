@@ -1,0 +1,67 @@
+/* Generales*/
+body {
+    background-color: black;
+}
+
+.post {
+    width: 500px;
+    height: 640px;
+    background-color: white;
+    margin: 75px auto;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+i {
+    font-size: xx-large;
+}
+
+span {
+    font-weight: bold;
+}
+
+/* Cabecero*/
+.cabecero {
+    display: flex;
+    align-items: center;
+}
+
+.iconHtml {
+    width: 30px;
+    margin: 17px 0px 15px 10px;
+}
+
+.titulo {
+    width: 85%;
+}
+
+.titulo p {
+    margin: 0;
+}
+
+.ellipsis {
+    margin: 20px 15px;
+}
+
+.img {
+    background-image: url('https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989_960_720.jpg');
+    height: 350px;
+    width: 100%;
+}
+
+/* Section */
+.icons {
+    display: flex;
+    margin: 20px 15px;
+}
+
+.icons i {
+    margin-right: 5px;
+}
+
+.left {
+    width: 95%;
+}
+
+p {
+    margin: 15px 15px;
+}
